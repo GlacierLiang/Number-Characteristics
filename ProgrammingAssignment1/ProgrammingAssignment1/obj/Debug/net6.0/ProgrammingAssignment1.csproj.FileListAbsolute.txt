@@ -1,0 +1,14 @@
+E:\Document\C and Unity\More C# Programming and Unity\Windows-Programming-Assignment-1-Materials\ProgrammingAssignment1\ProgrammingAssignment1\bin\Debug\net6.0\ProgrammingAssignment1.exe
+E:\Document\C and Unity\More C# Programming and Unity\Windows-Programming-Assignment-1-Materials\ProgrammingAssignment1\ProgrammingAssignment1\bin\Debug\net6.0\ProgrammingAssignment1.deps.json
+E:\Document\C and Unity\More C# Programming and Unity\Windows-Programming-Assignment-1-Materials\ProgrammingAssignment1\ProgrammingAssignment1\bin\Debug\net6.0\ProgrammingAssignment1.runtimeconfig.json
+E:\Document\C and Unity\More C# Programming and Unity\Windows-Programming-Assignment-1-Materials\ProgrammingAssignment1\ProgrammingAssignment1\bin\Debug\net6.0\ProgrammingAssignment1.dll
+E:\Document\C and Unity\More C# Programming and Unity\Windows-Programming-Assignment-1-Materials\ProgrammingAssignment1\ProgrammingAssignment1\bin\Debug\net6.0\ProgrammingAssignment1.pdb
+E:\Document\C and Unity\More C# Programming and Unity\Windows-Programming-Assignment-1-Materials\ProgrammingAssignment1\ProgrammingAssignment1\obj\Debug\net6.0\ProgrammingAssignment1.GeneratedMSBuildEditorConfig.editorconfig
+E:\Document\C and Unity\More C# Programming and Unity\Windows-Programming-Assignment-1-Materials\ProgrammingAssignment1\ProgrammingAssignment1\obj\Debug\net6.0\ProgrammingAssignment1.AssemblyInfoInputs.cache
+E:\Document\C and Unity\More C# Programming and Unity\Windows-Programming-Assignment-1-Materials\ProgrammingAssignment1\ProgrammingAssignment1\obj\Debug\net6.0\ProgrammingAssignment1.AssemblyInfo.cs
+E:\Document\C and Unity\More C# Programming and Unity\Windows-Programming-Assignment-1-Materials\ProgrammingAssignment1\ProgrammingAssignment1\obj\Debug\net6.0\ProgrammingAssignment1.csproj.CoreCompileInputs.cache
+E:\Document\C and Unity\More C# Programming and Unity\Windows-Programming-Assignment-1-Materials\ProgrammingAssignment1\ProgrammingAssignment1\obj\Debug\net6.0\ProgrammingAssignment1.dll
+E:\Document\C and Unity\More C# Programming and Unity\Windows-Programming-Assignment-1-Materials\ProgrammingAssignment1\ProgrammingAssignment1\obj\Debug\net6.0\refint\ProgrammingAssignment1.dll
+E:\Document\C and Unity\More C# Programming and Unity\Windows-Programming-Assignment-1-Materials\ProgrammingAssignment1\ProgrammingAssignment1\obj\Debug\net6.0\ProgrammingAssignment1.pdb
+E:\Document\C and Unity\More C# Programming and Unity\Windows-Programming-Assignment-1-Materials\ProgrammingAssignment1\ProgrammingAssignment1\obj\Debug\net6.0\ProgrammingAssignment1.genruntimeconfig.cache
+E:\Document\C and Unity\More C# Programming and Unity\Windows-Programming-Assignment-1-Materials\ProgrammingAssignment1\ProgrammingAssignment1\obj\Debug\net6.0\ref\ProgrammingAssignment1.dll
